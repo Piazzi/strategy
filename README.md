@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the Strategy design pattern. I've made a representation of a postal system.
+Simple project representing the Strategy design pattern. For this one I've made a representation of a text converter.
 
 # Definition
 
